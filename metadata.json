@@ -1,0 +1,5 @@
+{
+  "name": "WhatsAgent AI",
+  "description": "Um agente inteligente que importa listas de contatos, gera mensagens personalizadas via WhatsApp usando Gemini AI e facilita o disparo rápido via WhatsApp Web.",
+  "requestFramePermissions": []
+}
